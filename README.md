@@ -3,7 +3,7 @@ Simple Mapbox map, showing weather forecast for searched location. Using backend
 Weather Forecats service creation and ruuning is from repo https://github.com/vikrant327/web-server
 
 Clone Repo
-
+Run Command:
 npm run serve
 
 Launch app on http://localhost:3454/
